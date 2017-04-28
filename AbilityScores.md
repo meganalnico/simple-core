@@ -9,7 +9,7 @@ of a character's skills and abilities. Each ability score generally
 ranges from 3 to 18, although racial bonuses and penalties can alter
 this; an average ability score is 10.
 
-Generating Ability Scores
+Assigning Ability Scores
 -------------------------
 
 There are a number of different methods used to generate [ability
