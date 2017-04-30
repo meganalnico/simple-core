@@ -53,7 +53,7 @@ most dwarves tend toward classes such as fighters and barbarians.
 Dwarf Racial Traits
 -------------------
 
-**+1 [Constitution](AbilityAcores.html#constitution), +1
+**+1 [Constitution](AbilityAcores.md#constitution), +1
 [Wisdom](AbilityScores.html#wisdom), –1
 [Charisma](AbilityScores.html#charisma-new)**: Dwarves are both tough
 and wise, but also a bit gruff.
