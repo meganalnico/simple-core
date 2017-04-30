@@ -56,7 +56,7 @@ The Abilities
 Each ability partially describes your character and affects some of his
 actions.
 
-### Strength ([Str](#strength))
+### Strength (Str)
 
 Strength measures muscle and physical power. This ability is important
 for those who engage in hand-to-hand (or "melee") combat. Strength also sets the
