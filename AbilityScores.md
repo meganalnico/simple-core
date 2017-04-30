@@ -56,7 +56,7 @@ The Abilities
 Each ability partially describes your character and affects some of his
 actions.
 
-### Strength (Str)
+### Strength ([Str](#strength))
 
 Strength measures muscle and physical power. This ability is important
 for those who engage in hand-to-hand (or "melee") combat. Strength also sets the
@@ -74,7 +74,7 @@ You apply your character's Strength modifier to:
     [Swim](skills/swim.html#swim) checks.
 -   Strength checks (for breaking down doors and the like).
 
-### Dexterity (Dex)
+### Dexterity ([Dex](#dexterity))
 
 Dexterity measures agility, reflexes, and balance. This ability is useful
 for characters who wear light or medium armor or no armor at all. This ability
@@ -99,7 +99,7 @@ You apply your character's Dexterity modifier to:
     of Hand](skills/sleightOfHand.html#sleight-of-hand), and
     [Stealth](skills/stealth.html#stealth) checks.
 
-### Constitution (Con)
+### Constitution ([Con](#constitution))
 
 Constitution represents your character's health and stamina. A
 Constitution bonus increases a character's hit points, so the ability is
@@ -118,7 +118,7 @@ If a character's Constitution score changes enough to alter his or her
 Constitution modifier, the character's hit points also increase or
 decrease accordingly.
 
-### Intelligence (Int)
+### Intelligence ([Int](#intelligence))
 
 Intelligence determines how well your character learns and reasons. Creatures of animal-level instinct have Intelligence scores of 1 or 2. Any creature capable of understanding speech has a score of at least 3. A character with an Intelligence score
 of 0 is comatose. Some creatures do not possess an Intelligence score.
@@ -139,7 +139,7 @@ You apply your character's Intelligence modifier to:
 > Intelligence is a magical focus attribute. Characters who chose intelligence gain bonus spells based on their Intelligence score. The minimum Intelligence score needed to cast a
 spell is equal to the half the spell's level (round down).
 
-### Wisdom (Wis)
+### Wisdom ([Wis](#wisdom))
 
 Wisdom describes a character's willpower, common sense, awareness, and
 intuition. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of 0 is
@@ -157,7 +157,7 @@ You apply your character's Wisdom modifier to:
 
 > Wisdom is a magical focus attribute. Characters who chose Wisdom gain bonus spells based on their Wisdom score. The minimum Wisdom score needed to cast a spell is equal to the half the spell's level (round down).
 
-### Charisma (Cha)
+### Charisma ([Cha](#charisma))
 
 Charisma measures a character's personality, personal magnetism, ability
 to lead, and appearance. Every creature has a Charisma
