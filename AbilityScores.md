@@ -20,7 +20,7 @@ Abilities and Spellcasters
 The ability that governs bonus spells depends on what source of magic
 your character has chosen: [Intelligence](#intelligence) for
 those whom study hard to unravel the secretes of the universe; [Wisdom](#wisdom) for those whom contemplation of the self and the spiritual world brings great power; and
-[Charisma](#charisma-new) for those whom bend the very fabric of reality to there will though the sheer strengthen of their persona.
+[Charisma](#charisma) for those whom bend the very fabric of reality to there will though the sheer strengthen of their persona.
 
 In addition to having a high [ability score](#ability-scores), a
 spellcaster must be of a high enough level to be able to cast
