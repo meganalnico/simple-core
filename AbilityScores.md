@@ -3,8 +3,7 @@ Ability Scores
 
 Each character has six ability scores that represent his character's
 most basic attributes. They are his raw talent and prowess and affect nearly every aspect of a character's skills and abilities. Each ability score
-generally ranges from -2 to +3, although racial bonuses and penalties can alter
-this; an average ability score is 0.
+generally ranges from -5 to +5, bonuses and penalties can alter this; an average ability score is 0.
 
 Assigning Ability Scores
 -------------------------
@@ -61,11 +60,9 @@ actions.
 Strength measures muscle and physical power. This ability is important
 for those who engage in hand-to-hand (or "melee") combat. Strength also sets the
 maximum amount of weight your character can carry. A character with a
-Strength score of 0 is too weak to move in any way and is unconscious.
-Some creatures do not possess a Strength score and have no modifier at
-all to Strength-based skills or checks.
+Strength score of -5 is too weak to move in any way and is unconscious.
 
-You apply your character's Strength modifier to:
+You apply your character's Strength to:
 
 -   [Melee attack](combat.html#melee-attacks) rolls.
 -   [Damage](combat.html#damage) rolls when using a melee weapon or a
@@ -79,10 +76,10 @@ You apply your character's Strength modifier to:
 Dexterity measures agility, reflexes, and balance. This ability is useful
 for characters who wear light or medium armor or no armor at all. This ability
 is vital for characters seeking to excel with ranged weapons, such as the bow or
-sling. A character with a Dexterity score of 0 is incapable of moving
+sling. A character with a Dexterity score of -5 is incapable of moving
 and is effectively immobile (but not unconscious).
 
-You apply your character's Dexterity modifier to:
+You apply your character's Dexterity to:
 
 -   [Ranged attack](combat.html#ranged-attacks) rolls, including those
     for attacks made with bows, crossbows, throwing axes, and many
@@ -104,27 +101,25 @@ You apply your character's Dexterity modifier to:
 Constitution represents your character's health and stamina. A
 Constitution bonus increases a character's hit points, so the ability is
 important for all classes. Some creatures, such as undead and
-constructs, do not have a Constitution score. Their modifier is +0 for
-any Constitution-based checks. A character with a Constitution score of
-0 is dead.
+constructs, do not have a Constitution score. A character with a
+Constitution score of -5 is dead.
 
-You apply your character's Constitution modifier to:
+You apply your character's Constitution to:
 
 -   Each level when hit points are assigned.
 -   [Fortitude saving throws](combat.html#fortitude), for resisting
     poison, disease, and similar threats.
 
 If a character's Constitution score changes enough to alter his or her
-Constitution modifier, the character's hit points also increase or
+Constitution, the character's hit points also increase or
 decrease accordingly.
 
 ### Intelligence ([Int](#intelligence))
 
-Intelligence determines how well your character learns and reasons. Creatures of animal-level instinct have Intelligence scores of 1 or 2. Any creature capable of understanding speech has a score of at least 3. A character with an Intelligence score
-of 0 is comatose. Some creatures do not possess an Intelligence score.
-Their modifier is +0 for any Intelligence-based skills or checks.
+Intelligence determines how well your character learns and reasons. Creatures of animal-level instinct have Intelligence scores of -4. Any creature capable of understanding speech has a score of at least -3. A character with an Intelligence score
+of -5 is comatose.
 
-You apply your character's Intelligence modifier to:
+You apply your character's Intelligence to:
 
 -   The number of bonus
     [languages](skills/linguistics.html#learn-a-language) your character
@@ -142,10 +137,10 @@ spell is equal to the half the spell's level (round down).
 ### Wisdom ([Wis](#wisdom))
 
 Wisdom describes a character's willpower, common sense, awareness, and
-intuition. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of 0 is
+intuition. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of -5 is
 incapable of rational thought and is unconscious.
 
-You apply your character's Wisdom modifier to:
+You apply your character's Wisdom to:
 
 -   [Will saving throws](combat.html#will) (for negating the effects of
     *charm person* and other spells).
@@ -161,10 +156,10 @@ You apply your character's Wisdom modifier to:
 
 Charisma measures a character's personality, personal magnetism, ability
 to lead, and appearance. Every creature has a Charisma
-score. A character with a Charisma score of 0 is not able to exert
+score. A character with a Charisma score of -5 is not able to exert
 himself in any way and is unconscious.
 
-You apply your character's Charisma modifier to:
+You apply your character's Charisma to:
 
 -   [Bluff](skills/bluff.html#bluff),
     [Diplomacy](skills/diplomacy.html#diplomacy),
