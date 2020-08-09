@@ -2,7 +2,6 @@
 
 Dwarf Heritage
 =======
-
 Dwarves are a stoic but stern people, ensconced in cities carved from the hearts of mountains and fiercely determined to repel . More than any other people, the dwarves have acquired a reputation as dour and humorless craftsmen of the earth. It could be that dwarven history shapes the dark disposition of many dwarves, for they reside in high mountains and dangerous realms below the earth, constantly at war with giants, goblins, and other competing civilizations.
 
 **Physical Description**: Dwarves are a short and stocky people, and stand about a foot shorter than most humans, with wide, compact bodies that account for their burly appearance. Male and female dwarves pride themselves on the length of their hair, and men often decorate their beards with a variety of clasps and intricate braids. Clean-shaven male dwarves are rare and are distrusted by most traditionally minded individuals.
