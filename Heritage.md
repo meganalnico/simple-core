@@ -1,104 +1,49 @@
-> There are many player races. These have been included in simple core as a baseline
- for adapting you own races. The changes should be minimal.
+> There are many peoples a player can descend from. These have been included in simple core as a baseline for adding a new heritage for your setting. The changes should be minimal.
 
-Dwarves
+Heritage
 =======
 
-Dwarves are a stoic but stern race, ensconced in cities carved from the
-hearts of mountains and fiercely determined to repel the depredations of
-savage races like orcs and goblins. More than any other race, the
-dwarves have acquired a reputation as dour and humorless craftsmen of
-the earth. It could be said that dwarven history shapes the dark
-disposition of many dwarves, for they reside in high mountains and
-dangerous realms below the earth, constantly at war with giants,
-goblins, and other such horrors.
+Dwarves are a stoic but stern people, ensconced in cities carved from the hearts of mountains and fiercely determined to repel . More than any other people, the dwarves have acquired a reputation as dour and humorless craftsmen of the earth. It could be that dwarven history shapes the dark disposition of many dwarves, for they reside in high mountains and dangerous realms below the earth, constantly at war with giants, goblins, and other competing civilizations.
 
-**Physical Description**: Dwarves are a short and stocky race, and stand
-about a foot shorter than most humans, with wide, compact bodies that
-account for their burly appearance. Male and female dwarves pride
-themselves on the length of their hair, and men often decorate their
-beards with a variety of clasps and intricate braids. A clean-shaven
-male dwarf is a sure sign of madness, or worse—no one familiar with
-their race trusts a beardless dwarf.
+**Physical Description**: Dwarves are a short and stocky people, and stand about a foot shorter than most humans, with wide, compact bodies that account for their burly appearance. Male and female dwarves pride themselves on the length of their hair, and men often decorate their beards with a variety of clasps and intricate braids. Clean-shaven male dwarves are rare and are distrusted by most traditionally minded individuals.
 
-**Society**: The great distances between their mountain citadels account
-for many of the cultural differences that exist within dwarven society.
-Despite these schisms, dwarves throughout the world are characterized by
-their love of stonework, their passion for stone- and metal-based
-craftsmanship and architecture, and a fierce hatred of giants, orcs, and
-goblinoids.
+**Society**: The great distances between their mountain citadels account for many of the cultural differences that exist within dwarven society. Despite these schisms, dwarven culture encourages a love of stonework, a passion for stone- and metal-based craftsmanship and architecture. In may areas they compete fiercely with giants, orcs, and goblinoids for resources and land making martial prowess an almost essential skill to survival. Depending on the region deviations from the norm can be treated as anything from a simple curiosity to a pariah unwelcome in social circles. 
 
-**Relations**: Dwarves and orcs have long dwelt in proximity, theirs a
-history of violence as old as both their races. Dwarves generally
-distrust and shun half-orcs. They find halflings, elves, and gnomes to
-be too frail, flighty, or "pretty" to be worthy of proper respect. It is
-with humans that dwarves share the strongest link, for humans'
-industrious nature and hearty appetites come closest to matching those
-of the dwarven ideal.
+**Politics And Trade**: Dwarven settlements and Orcish tribes have long dwelt in proximity, theirs is a history of violence as old as both their peoples. Trade and cultural exchange tends to be minimal or non-existent between these groups and so the average dwarf has been taught to distrust and shun half-orcs. 
 
-**Alignment and Religion**: Dwarves are driven by honor and tradition,
-and while they are often satirized as standoffish, they have a strong
-sense of friendship and justice, and those who win their trust
-understand that, while they work hard, they play even harder—especially
-when good ale is involved. Most dwarves are lawful good.
+Dwarven settlements trade openly with halflings, elves, gnomes, and humans with significant cultural exchange among the groups. Traditional Dwarven culture emphasizes craftsmanship and skilled crafters from any of their trade partners enjoy a healthy dose of respect and standing in social circles, with only spirited discussions about aesthetics and process being points of contention. Dwarves enjoy Halfling cuisine, Gnomish spirits, and textiles from many Human nations. Elven sensibilities don't always align with the Dwarven ideal but books and literature find there way into dwarven society regularly. It is with humans that dwarves share the strongest link. Many human nations share similar laws an societal norms leading to easy alliances. Humans industrious nature and economic dependency on gold tie Dwarven interests to Human interests.   
 
-**Adventurers**: Although dwarven adventurers are rare compared to
-humans, they can be found in most regions of the world. Dwarves often
-leave the confines of their redoubts to seek glory for their clans, to
-find wealth with which to enrich the fortress-homes of their birth, or
-to reclaim fallen dwarven citadels from racial enemies. Dwarven warfare
-is often characterized by tunnel fighting and melee combat, and as such
-most dwarves tend toward classes such as fighters and barbarians.
+**Alignment and Religion**: Dwarves are driven by honor and tradition, and while they are often satirized as standoffish, they have a strong sense of friendship and justice, and those who win their trust understand that, while they work hard, they play even harder—especially when good ale is involved. Most dwarves are lawful good.
 
-Dwarf Racial Traits
+**Adventurers**: Although dwarven adventurers are rare compared to humans, they can be found in most regions of the world. Dwarves often leave the confines of their redoubts to seek glory for their clans, to find wealth with which to enrich the fortress-homes of their birth, or to reclaim fallen dwarven citadels from heritage enemies. Dwarven warfare is often characterized by tunnel fighting and melee combat, and as such most dwarves tend toward classes such as fighters and barbarians.
+
+Dwarf Heritage Traits
 -------------------
 
-**+1 [Constitution](AbilityScores.md#constitution), +1
-[Wisdom](AbilityScores.html#wisdom), –1
-[Charisma](AbilityScores.html#charisma-new)**: Dwarves are both tough
-and wise, but also a bit gruff.
+Dwarves get a **+1,+1,-1**  spread of attribute bonuses to be applied to three different attributes. 
+
+Dwarven culture tends to emphasize both toughness and wisdom and eschew intricate social skills making them typically a bit gruff. The attribute spread for the majority of dwarven people is +1 [Constitution](AbilityScores.md#constitution), +1 [Wisdom](AbilityScores.html#wisdom)  and –1 [Charisma](AbilityScores.html#charisma-new).
 
 **Medium**: Dwarves are Medium creatures and have no bonuses or
 penalties due to their size.
 
-**Slow and Steady**: Dwarves have a base speed of 20 feet, but their
-speed is never modified by armor or encumbrance.
+**Slow and Steady**: Dwarves have a base speed of 20 feet, but their speed is never modified by armor or encumbrance.
 
-**[Darkvision](glossary.html#darkvision)**: Dwarves can see in the dark
-up to 60 feet.
+**[Darkvision](glossary.html#darkvision)**: Dwarves can see in the dark up to 60 feet.
 
-**Defensive Training**: Dwarves get a +4 [dodge
-bonus](combat.html#dodge-bonuses) to AC against monsters of the giant
-subtype.
+**Defensive Training**: Dwarves get a +4 [dodge bonus](combat.html#dodge-bonuses) to AC against large humanoid enemies.
 
-**Greed**: Dwarves receive a +2 racial bonus on
-[Appraise](skills/appraise.html#appraise) skill checks made to determine
-the price of nonmagical goods that contain precious metals or gemstones.
+**Shrewd**: Dwarves receive a +2 heritage bonus on [Appraise](skills/appraise.html#appraise) skill checks made to determine the price of nonmagical goods that contain precious metals or gemstones.
 
-**Hatred**: Dwarves receive a +1 bonus on [attack
-rolls](combat.html#attack-bonus) against humanoid creatures of the orc
-and goblinoid subtypes due to special training against these hated foes.
+**Common Foe:** Dwarves receive a +1 bonus on [attack rolls](combat.html#attack-bonus) against humanoid creatures of the orc and goblinoid subtypes due to special training and their constant clashes.
 
-**Hardy**: Dwarves receive a +2 racial bonus on [saving
-throws](combat.html#saving-throws) against poison, spells, and
-spell-like abilities.
+**Hardy**: Dwarves receive a +2 heritage bonus on [saving throws](combat.html#saving-throws) against poison, spells, and spell-like abilities.
 
-**Stability**: Dwarves receive a +4 racial bonus to their [Combat
-Maneuver Defense](combat.html#combat-maneuver-defense) when resisting a
-[bull rush](combat.html#bull-rush) or [trip](combat.html#trip) attempt
-while standing on the ground.
+**Stability**: Dwarves receive a +4 heritage bonus to their [Combat Maneuver Defense](combat.html#combat-maneuver-defense) when resisting a [bull rush](combat.html#bull-rush) or [trip](combat.html#trip) attempt while standing on the ground.
 
-**Stonecunning**: Dwarves receive a +2 bonus on
-[Perception](skills/perception.html#perception) checks to potentially
-notice unusual stonework, such as traps and hidden doors located in
-stone walls or floors. They receive a check to notice such features
-whenever they pass within 10 feet of them, whether or not they are
-actively looking.
+**Stonecunning**: Dwarves receive a +2 bonus on [Perception](skills/perception.html#perception) checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 
-**Languages**: Dwarves begin play speaking Common and Dwarven. Dwarves
-with high [Intelligence](AbilityScores.html#intelligence) scores can
-choose from the following: Giant, Gnome, Goblin, Orc, Terran, and
-Undercommon.
+**Languages**: Dwarves begin play speaking Common and Dwarven. Dwarves with high [Intelligence](AbilityScores.html#intelligence) scores can choose from the following: Giant, Gnome, Goblin, Orc, Terran, and Undercommon.
 
 Elves
 =====
@@ -113,12 +58,12 @@ their incredibly long lifespans or some deeper, more mystical reason.
 Elves who dwell in a region for long find themselves physically adapting
 to match their surroundings, most noticeably taking on coloration
 reflecting the local environment. Those elves that spend their lives
-among the short-lived races, on the other hand, often develop a skewed
+among the short-lived peoples, on the other hand, often develop a skewed
 perception of mortality and become morose, the result of watching wave
 after wave of companions age and die before their eyes.
 
 **Physical Description**: Although generally taller than humans, elves
-possess a graceful, fragile physique that is accentuated by their long,
+possess a gpeopleful, fragile physique that is accentuated by their long,
 pointed ears. Their eyes are wide and almond-shaped, and filled with
 large, vibrantly colored pupils. While elven clothing often plays off
 the beauty of the natural world, those elves that live in cities tend to
@@ -130,7 +75,7 @@ and stone to be distasteful, and prefer instead to indulge in the finer
 arts, with their inborn patience making them particularly suited to
 wizardry.
 
-**Relations**: Elves are prone to dismissing other races, writing them
+**Relations**: Elves are prone to dismissing other peoples, writing them
 off as rash and impulsive, yet they are excellent judges of character.
 An elf might not want a dwarf neighbor, but would be the first to
 acknowledge that dwarf's skill at smithing. They regard gnomes as
@@ -152,7 +97,7 @@ and unfettered life of an adventurer holds natural appeal. Elves
 generally eschew melee because of their frailty, preferring instead to
 pursue classes such as wizards and rangers.
 
-Elf Racial Traits
+Elf heritage Traits
 -----------------
 
 **+1 [Dexterity](AbilityScores.html#dexterity), +1
@@ -170,16 +115,16 @@ twice as far as humans in conditions of dim light. See [Additional
 Rules](additionalRules.html).
 
 **Elven Immunities**: Elves are immune to magic sleep effects and get a
-+2 racial [saving throw](combat.html#saving-throws) bonus against
++2 heritage [saving throw](combat.html#saving-throws) bonus against
 [enchantment](magic.html#enchantment) spells and effects.
 
-**Elven Magic**: Elves receive a +2 racial bonus on [caster level
+**Elven Magic**: Elves receive a +2 heritage bonus on [caster level
 checks](magic.html#caster-level) made to overcome spell resistance. In
-addition, elves receive a +2 racial bonus on
+addition, elves receive a +2 heritage bonus on
 [Spellcraft](skills/spellcraft.html#spellcraft) skill checks made to
 identify the properties of magic items.
 
-**Keen Senses**: Elves receive a +2 racial bonus on
+**Keen Senses**: Elves receive a +2 heritage bonus on
 [Perception](skills/perception.html#perception) skill checks.
 
 **Languages**: Elves begin play speaking Common and Elven. Elves with
@@ -190,16 +135,16 @@ Sylvan.
 Gnomes
 ======
 
-Gnomes trace their lineage back to the mysterious realm of the fey, a
+Gnomes tpeople their lineage back to the mysterious realm of the fey, a
 place where colors are brighter, the wildlands wilder, and emotions more
 primal. Unknown forces drove the ancient gnomes from that realm long
 ago, forcing them to seek refuge in this world; despite this, the gnomes
 have never completely abandoned their fey roots or adapted to mortal
-culture. As a result, gnomes are widely regarded by the other races as
+culture. As a result, gnomes are widely regarded by the other peoples as
 alien and strange.
 
 **Physical Description**: Gnomes are one of the smallest of the common
-races, generally standing just over 3 feet in height. Their hair tends
+peoples, generally standing just over 3 feet in height. Their hair tends
 toward vibrant colors such as the fiery orange of autumn leaves, the
 verdant green of forests at springtime, or the deep reds and purples of
 wildflowers in bloom. Similarly, their flesh tones range from earthy
@@ -208,24 +153,24 @@ Gnomes possess highly mutable facial characteristics, and many have
 overly large mouths and eyes, an effect which can be both disturbing and
 stunning, depending on the individual.
 
-**Society**: Unlike most races, gnomes do not generally organize
+**Society**: Unlike most peoples, gnomes do not generally organize
 themselves within classic societal structures. Whimsical creatures at
 heart, they typically travel alone or with temporary companions, ever
 seeking new and more exciting experiences. They rarely form enduring
-relationships among themselves or with members of other races, instead
+relationships among themselves or with members of other peoples, instead
 pursuing crafts, professions, or collections with a passion that borders
 on zealotry. Male gnomes have a strange fondness for unusual hats and
 headgear, while females often proudly wear elaborate and eccentric
 hairstyles.
 
-**Relations**: Gnomes have difficulty interacting with the other races,
+**Relations**: Gnomes have difficulty interacting with the other peoples,
 on both emotional and physical levels. Gnome humor is hard to translate
-and often comes across as malicious or senseless to other races, while
-gnomes in turn tend to think of the taller races as dull and lumbering
+and often comes across as malicious or senseless to other peoples, while
+gnomes in turn tend to think of the taller peoples as dull and lumbering
 giants. They get along well with halflings and humans, but are overly
 fond of playing jokes on dwarves and half-orcs, whom most gnomes feel
 need to lighten up. They respect elves, but often grow frustrated with
-the comparatively slow pace at which members of the long-lived race make
+the comparatively slow pace at which members of the long-lived people make
 decisions. To the gnomes, action is always better than inaction, and
 many gnomes carry several highly involved projects with them at all
 times to keep themselves entertained during rest periods.
@@ -241,7 +186,7 @@ life, for nothing is as novel as the uncounted dangers facing
 adventurers. Gnomes make up for their weakness with a proclivity for
 sorcery or bardic music.
 
-Gnome Racial Traits
+Gnome heritage Traits
 -------------------
 
 **+1 [Constitution](AbilityScores.html#constitution), +1
@@ -286,14 +231,14 @@ rolls](combat.html#attack-bonus) against humanoid creatures of the
 reptilian and goblinoid subtypes due to special training against these
 hated foes.
 
-**Illusion Resistance**: Gnomes get a +2 racial [saving
+**Illusion Resistance**: Gnomes get a +2 heritage [saving
 throw](combat.html#saving-throws) bonus against
 [illusion](magic.html#illusion) spells or effects.
 
-**Keen Senses**: Gnomes receive a +2 racial bonus on
+**Keen Senses**: Gnomes receive a +2 heritage bonus on
 [Perception](skills/perception.html#perception) skill checks.
 
-**Obsessive**: Gnomes receive a +2 racial bonus on a
+**Obsessive**: Gnomes receive a +2 heritage bonus on a
 [Craft](skills/craft.html#craft) or
 [Profession](skills/profession.html#profession) skill of their choice.
 
@@ -305,20 +250,20 @@ and Orc.
 Half-elves
 ==========
 
-Elves have long drawn the covetous gazes of other races. Their generous
-life spans, magical affinity, and inherent grace each contribute to the
+Elves have long drawn the covetous gazes of other peoples. Their generous
+life spans, magical affinity, and inherent gpeople each contribute to the
 admiration or bitter envy of their neighbors. Of all their traits,
 however, none so entrance their human associates as their beauty. Since
-the two races first came into contact with each other, the humans have
+the two peoples first came into contact with each other, the humans have
 held up elves as models of physical perfection, seeing in the fair folk
 idealized versions of themselves. For their part, many elves find humans
 attractive despite their comparatively barbaric ways, drawn to the
-passion and impetuosity with which members of the younger race play out
+passion and impetuosity with which members of the younger people play out
 their brief lives.
 
 Sometimes this mutual infatuation leads to romantic relationships.
 Though usually short-lived, even by human standards, these trysts
-commonly lead to the birth of half-elves, a race descended of two
+commonly lead to the birth of half-elves, a people descended of two
 cultures yet inheritor of neither. Half-elves can breed with one
 another, but even these "pureblood" half-elves tend to be viewed as
 bastards by humans and elves alike.
@@ -333,9 +278,9 @@ green and deep blue.
 
 **Society**: The lack of a unified homeland and culture forces
 half-elves to remain versatile, able to conform to nearly any
-environment. While often attractive to both races for the same reasons
+environment. While often attractive to both peoples for the same reasons
 as their parents, half-elves rarely fit in with either humans or elves,
-as both races see too much evidence of the other in them. This lack of
+as both peoples see too much evidence of the other in them. This lack of
 acceptance weighs heavily on many half-elves, yet others are bolstered
 by their unique status, seeing in their lack of a formalized culture the
 ultimate freedom. As a result, half-elves are incredibly adaptable,
@@ -343,9 +288,9 @@ capable of adjusting their mindsets and talents to whatever societies
 they find themselves in.
 
 **Relations**: A half-elf understands loneliness, and knows that
-character is often less a product of race than of life experience. As
+character is often less a product of people than of life experience. As
 such, half-elves are often open to friendships and alliances with other
-races, and less likely to rely on first impressions when forming
+peoples, and less likely to rely on first impressions when forming
 opinions of new acquaintances.
 
 **Alignment and Religion**: Half-elves' isolation strongly influences
@@ -360,7 +305,7 @@ in search of a place they might finally call home. The desire to prove
 oneself to the community and establish a personal identity—or even a
 legacy—drives many half-elf adventurers to lives of bravery.
 
-Half-Elf Racial Traits
+Half-Elf heritage Traits
 ----------------------
 
 **+1 to One [Ability Score](AbilityScores.html#ability-scores)**:
@@ -380,17 +325,17 @@ Rules](additionalRules.html).
 Focus](feats.html#skill-focus) as a bonus feat at 1st level.
 
 **Elf Blood**: Half-elves count as both elves and humans for any effect
-related to race.
+related to people.
 
 **Elven Immunities**: Half-elves are immune to magic sleep effects and
-get a +2 racial [saving throw](combat.html#saving-throws) bonus against
+get a +2 heritage [saving throw](combat.html#saving-throws) bonus against
 [enchantment](magic.html#enchantment) spells and effects.
 
-**Keen Senses**: Half-elves receive a +2 racial bonus on
+**Keen Senses**: Half-elves receive a +2 heritage bonus on
 [Perception](skills/perception.html#perception) skill checks.
 
 **Dual Minded:** The mixed ancestry of some half-elves makes them resistant
-to mental attacks. Half-elves with this racial trait gain a +2 bonus on
+to mental attacks. Half-elves with this heritage trait gain a +2 bonus on
 all Will saving throws.
 
 **Languages**: Half-elves begin play speaking Common and Elven.
@@ -402,7 +347,7 @@ Half-orcs
 =========
 
 Half-orcs are monstrosities, their tragic births the result of
-perversion and violence—or at least, that's how other races see them.
+perversion and violence—or at least, that's how other peoples see them.
 It's true that half-orcs are rarely the result of loving unions, and as
 such are usually forced to grow up hard and fast, constantly fighting
 for protection or to make names for themselves. Feared, distrusted, and
@@ -432,7 +377,7 @@ aggression, making them natural chieftains and strategic advisors.
 wary and quick to anger, yet those who break through his savage exterior
 might find a well-hidden core of empathy. Elves and dwarves tend to be
 the least accepting of half-orcs, seeing in them too great a resemblance
-to their racial enemies, but other races aren't much more understanding.
+to their heritage enemies, but other peoples aren't much more understanding.
 Human societies with few orc problems tend to be the most accommodating,
 and there half-orcs make natural mercenaries and enforcers.
 
@@ -449,7 +394,7 @@ improve their lot through force of arms. Others, more optimistic or
 desperate for acceptance, take up the mantle of crusaders in order to
 prove their worth to the world.
 
-Half-Orc Racial Traits
+Half-Orc heritage Traits
 ----------------------
 
 **+1 to One [Ability Score](AbilityScores.html#ability-scores)**:
@@ -464,12 +409,12 @@ penalties due to their size.
 **[Darkvision](glossary.html#darkvision)**: Half-orcs can see in the
 dark up to 60 feet.
 
-**Intimidating**: Half-orcs receive a +2 racial bonus on
+**Intimidating**: Half-orcs receive a +2 heritage bonus on
 [Intimidate](skills/intimidate.html#intimidate) skill checks due to
 their fearsome nature.
 
 **Orc Blood**: Half-orcs count as both humans and orcs for any effect
-related to race.
+related to people.
 
 **Orc Ferocity**: Once per day, when a half-orc is brought below 0 hit
 points but not killed, he can fight on for one more round as if
@@ -489,7 +434,7 @@ Optimistic and cheerful by nature, blessed with uncanny luck and driven
 by a powerful wanderlust, halflings make up for their short stature with
 an abundance of bravado and curiosity. At once excitable and easy-going,
 halflings like to keep an even temper and a steady eye on opportunity,
-and are not as prone as some of the more volatile races to violent or
+and are not as prone as some of the more volatile peoples to violent or
 emotional outbursts. Even in the jaws of catastrophe, a halfling almost
 never loses his sense of humor.
 
@@ -518,40 +463,40 @@ neighbors, while some prefer more nomadic lives on the road, traveling
 the world and experiencing all it has to offer.
 
 **Relations**: A typical halfling prides himself on his ability to go
-unnoticed by other races—it is this trait that allows so many halflings
+unnoticed by other peoples—it is this trait that allows so many halflings
 to excel at thievery and trickery. Most halflings, knowing full well the
-stereotyped view other races take of them as a result, go out of their
-way to be forthcoming and friendly to the bigger races when they're not
+stereotyped view other peoples take of them as a result, go out of their
+way to be forthcoming and friendly to the bigger peoples when they're not
 trying to go unnoticed. They get along fairly well with gnomes, although
 most halflings regard these eccentric creatures with a hefty dose of
 caution. Halflings coexist well with humans as a general rule, but since
 some of the more aggressive human societies value halflings as slaves,
 halflings try not to grow too complacent when dealing with them.
-Halflings respect elves and dwarves, but these races generally live in
+Halflings respect elves and dwarves, but these peoples generally live in
 remote regions far from the comforts of civilization that halflings
 enjoy, thus limiting opportunities for interaction. Only half-orcs are
 generally shunned by halflings, for their great size and violent natures
 are a bit too intimidating for most halflings to cope with.
 
 **Alignment and Religion**: Halflings are loyal to their friends and
-families, but since they dwell in a world dominated by races twice as
+families, but since they dwell in a world dominated by peoples twice as
 large as themselves, they've come to grips with the fact that sometimes
 they'll need to scrap and scrounge for survival. Most halflings are
 neutral as a result.
 
 **Adventurers**: Their inherent luck coupled with their insatiable
 wanderlust makes halflings ideal for lives of adventure. Other such
-vagabonds tend to put up with the curious race in hopes that some of
+vagabonds tend to put up with the curious people in hopes that some of
 their mystical luck will rub off.
 
-Halfling Racial Traits
+Halfling heritage Traits
 ----------------------
 
 **+1 [Dexterity](AbilityScores.html#dexterity), +1
 [Charisma](AbilityScores.html#charisma-new), –1
 [Strength](AbilityScores.html#strength)**: Halflings are nimble and
 strong-willed, but their small stature makes them weaker than other
-races.
+peoples.
 
 **Small**: Halflings are Small creatures and gain a +1 size bonus to
 their [AC](combat.html#armor-class), a +1 size bonus on [attack
@@ -562,17 +507,17 @@ Defense](combat.html#combat-maneuver-defense), and a +4 size bonus on
 
 **Slow Speed**: Halflings have a base speed of 20 feet.
 
-**Fearless**: Halflings receive a +2 racial bonus on all [saving
+**Fearless**: Halflings receive a +2 heritage bonus on all [saving
 throw](combat.html#saving-throws)s against fear. This bonus stacks with
 the bonus granted by halfling luck.
 
-**Halfling Luck**: Halflings receive a +1 racial bonus on all [saving
+**Halfling Luck**: Halflings receive a +1 heritage bonus on all [saving
 throw](combat.html#saving-throws)s.
 
-**Keen Senses**: Halflings receive a +2 racial bonus on
+**Keen Senses**: Halflings receive a +2 heritage bonus on
 [Perception](skills/perception.html#perception) skill checks.
 
-**Sure-Footed:** Halflings receive a +2 racial bonus on
+**Sure-Footed:** Halflings receive a +2 heritage bonus on
 [Acrobatics](skills/acrobatics.html#acrobatics) and
 [Climb](skills/climb.html#climb) skill checks.
 
@@ -584,7 +529,7 @@ Humans
 ======
 
 Humans possess exceptional drive and a great capacity to endure and
-expand, and as such are currently the dominant race in the world. Their
+expand, and as such are currently the dominant people in the world. Their
 empires and nations are vast, sprawling things, and the citizens of
 these societies carve names for themselves with the strength of their
 sword arms and the power of their spells. Humanity is best characterized
@@ -604,31 +549,31 @@ facial features. Generally speaking, humans' skin color assumes a darker
 hue the closer to the equator they live.
 
 **Society**: Human society comprises a multitude of governments,
-attitudes, and lifestyles. Though the oldest human cultures trace their
+attitudes, and lifestyles. Though the oldest human cultures tpeople their
 histories thousands of years into the past, when compared to the
-societies of common races like elves and dwarves, human society seems to
+societies of common peoples like elves and dwarves, human society seems to
 be in a state of constant flux as empires fragment and new kingdoms
 subsume the old. In general, humans are known for their flexibility,
 ingenuity, and ambition.
 
 **Relations**: Humans are fecund, and their drive and numbers often spur
-them into contact with other races during bouts of territorial expansion
+them into contact with other peoples during bouts of territorial expansion
 and colonization. In many cases, this leads to violence and war, yet
-humans are also swift to forgive and forge alliances with races who do
+humans are also swift to forgive and forge alliances with peoples who do
 not try to match or exceed them in violence. Proud, sometimes to the
 point of arrogance, humans might look upon dwarves as miserly drunkards,
 elves as flighty fops, halflings as craven thieves, gnomes as twisted
-maniacs, and half-elves and half-orcs as embarrassments—but the race's
+maniacs, and half-elves and half-orcs as embarrassments—but the people's
 diversity among its own members also makes humans quite adept at
 accepting others for what they are.
 
 **Alignment and Religion**: Humanity is perhaps the most heterogeneous
-of all the common races, with a capacity for great evil and boundless
+of all the common peoples, with a capacity for great evil and boundless
 good. Some assemble into vast barbaric hordes, while others build
 sprawling cities that cover miles. Taken as a whole, most humans are
 neutral, yet they generally tend to congregate in nations and
 civilizations with specific alignments. Humans also have the widest
-range in gods and religion, lacking other races' ties to tradition and
+range in gods and religion, lacking other peoples' ties to tradition and
 eager to turn to anyone offering them glory or protection.
 
 **Adventurers**: Ambition alone drives countless humans, and for many,
@@ -637,14 +582,14 @@ social status, or arcane knowledge. A few pursue adventuring careers
 simply for the thrill of danger. Humans hail from myriad regions and
 backgrounds, and as such can fill any role within an adventuring party.
 
-**Names**: Unlike other races, who generally cleave to specific
+**Names**: Unlike other peoples, who generally cleave to specific
 traditions and shared histories, humanity's diversity has resulted in a
 near-infinite set of names. The humans of a northern barbarian tribe
 have much different names than those hailing from a subtropical nation
 of sailors and tradesmen. Throughout most of the world humans speak
 Common, yet their names are as varied as their beliefs and appearances.
 
-Human Racial Traits
+Human heritage Traits
 -------------------
 
 **+1 to One [Ability Score](AbilityScores.html#ability-scores)**: Human
