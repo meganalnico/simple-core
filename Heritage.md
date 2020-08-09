@@ -1,6 +1,6 @@
 > There are many peoples a player can descend from. These have been included in simple core as a baseline for adding a new heritage for your setting. The changes should be minimal.
 
-Dwarven Heritage
+Dwarf Heritage
 =======
 
 Dwarves are a stoic but stern people, ensconced in cities carved from the hearts of mountains and fiercely determined to repel . More than any other people, the dwarves have acquired a reputation as dour and humorless craftsmen of the earth. It could be that dwarven history shapes the dark disposition of many dwarves, for they reside in high mountains and dangerous realms below the earth, constantly at war with giants, goblins, and other competing civilizations.
