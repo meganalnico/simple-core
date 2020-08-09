@@ -1,6 +1,6 @@
 > There are many peoples a player can descend from. These have been included in simple core as a baseline for adding a new heritage for your setting. The changes should be minimal.
 
-Dwarf Heritage
+Dwarven Heritage
 =======
 Dwarves are a stoic but stern people, ensconced in cities carved from the hearts of mountains and fiercely determined to repel . More than any other people, the dwarves have acquired a reputation as dour and humorless craftsmen of the earth. It could be that dwarven history shapes the dark disposition of many dwarves, for they reside in high mountains and dangerous realms below the earth, constantly at war with giants, goblins, and other competing civilizations.
 
@@ -16,7 +16,7 @@ Dwarven settlements trade openly with halflings, elves, gnomes, and humans with 
 
 **Adventurers**: Although dwarven adventurers are rare compared to humans, they can be found in most regions of the world. Dwarves often leave the confines of their redoubts to seek glory for their clans, to find wealth with which to enrich the fortress-homes of their birth, or to reclaim fallen dwarven citadels from heritage enemies. Dwarven warfare is often characterized by tunnel fighting and melee combat, and as such most dwarves tend toward classes such as fighters and barbarians.
 
-Dwarf Heritage Traits
+Dwarven Heritage Traits
 -------------------
 
 Dwarves get a **+1,+1,-1**  spread of attribute bonuses to be applied to three different attributes. 
